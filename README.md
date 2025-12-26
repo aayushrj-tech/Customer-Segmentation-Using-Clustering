@@ -1,2 +1,2 @@
 # Customer-Segmentation-Using-Clustering
-Customer segmentation using K-Means and DBSCAN to derive business insights.
+This project focuses on customer segmentation using K-Means and DBSCAN clustering algorithms.

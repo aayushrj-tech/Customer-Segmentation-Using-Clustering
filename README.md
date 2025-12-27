@@ -60,10 +60,10 @@ Clustering performance was evaluated using the Silhouette Score. A moderate scor
 ## 📊 Visualizations
 
 ### K-Means Clustering (PCA)
-![KMeans PCA](PCA using k-MEANS)
+![KMeans PCA](PCA using k-MEANS.png)
 
 ### DBSCAN Clustering (PCA)
-![DBSCAN PCA](PCA using DBSCAN)
+![DBSCAN PCA](PCA using DBSCAN.png)
 
 
 ## Key Learnings
